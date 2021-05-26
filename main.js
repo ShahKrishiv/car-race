@@ -9,12 +9,8 @@ car1_x = 10;
 car1_y = 10;
 car2_x = 10;
 car2_y = 100;
-nasa_mars_images_array = ["https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/01000/opgs/edr/fcam/FLB_486265257EDR_F0481570FHAZ00323M_.JPG",
-    "https://mars.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631290503689E01_DXXX.jpg",
-    "https://mars.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631230305220E02_DXXX.jpg",
-    "https://mars.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631270305224E03_DXXX.jpg"
-];
-random_number = Math.floor(Math.random() * 4);
+nasa_mars_images_array = ["https://i.postimg.cc/bv5d35nK/racing.jpg"];
+random_number = Math.floor(Math.random() * 1);
 console.log(random_number);
 car1_width = 100;
 car1_height = 90;
